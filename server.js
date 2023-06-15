@@ -11,14 +11,14 @@ const ideas = [
         url:"https://rocketseat.com.br"
     },
     {
-        img: "https://cdn-icons-png.flaticon.com/128/4190/4190739.png",
+        img: "https://cdn-icons-png.flaticon.com/128/3784/3784470.png",
         title:"Exercicios",
         category: "Saúde",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         url:"https://rocketseat.com.br"
     },
     {
-        img: "https://cdn-icons-png.flaticon.com/128/2981/2981993.png",
+        img: "https://cdn-icons-png.flaticon.com/128/1509/1509540.png",
         title:"Meditação",
         category: "Saúde",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
@@ -32,14 +32,14 @@ const ideas = [
         url:"https://rocketseat.com.br"
     },
     {
-        img: "https://cdn-icons-png.flaticon.com/128/2159/2159722.png",
+        img: "https://cdn-icons-png.flaticon.com/128/1157/1157969.png",
         title:"Pintura",
         category: "Criatividade",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         url:"https://rocketseat.com.br"
     },
     {
-        img: "https://cdn-icons-png.flaticon.com/128/2159/2159722.png",
+        img: "https://cdn-icons-png.flaticon.com/128/8542/8542722.png",
         title:"Recortes",
         category: "Criatividade",
         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
