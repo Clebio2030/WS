@@ -156,14 +156,16 @@ p, .description {
 .idea p {
     margin: 8px 0;
     color: rgb(116, 116, 116);
+    font-size: 16px;
 }
 
 .idea .description{
     margin: 10px 0;
 }
 
-.ideia h3 {
+.idea h3 {
     margin: 0;
+    font-size: 25px;
 }
 
 

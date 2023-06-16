@@ -26,20 +26,20 @@ db.serialize(function() {
         description,
         link
     ) VALUES (?,?,?,?,?);
-    // `
-    const values= [
-        "https://cdn-icons-png.flaticon.com/128/3015/3015491.png",
-        "Cursos de Programação",
-        "Estudos",
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
-        "https://rocketseat.com.br"
-    ]
+     `
+    // const values= [
+    //     "https://cdn-icons-png.flaticon.com/128/3015/3015491.png",
+    //     "Cursos de Programação",
+    //     "Estudos",
+    //     "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+    //     "https://rocketseat.com.br"
+    // ]
 
-    db.run(query, values, function(err) {
-        if (err) return console.log(err)
+    // db.run(query, values, function(err) {
+    //     if (err) return console.log(err)
 
-        console.log(this)
-    })
+    //     console.log(this)
+    // })
 
      // Deletar um dado
     //  db.run(`DELETE FROM ideas WHERE id = ?`, [1], function(err) {
