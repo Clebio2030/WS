@@ -27,6 +27,8 @@ db.serialize(function() {
         link
     ) VALUES (?,?,?,?,?);
      `
+
+     
     // const values= [
     //     "https://cdn-icons-png.flaticon.com/128/3015/3015491.png",
     //     "Cursos de Programação",
