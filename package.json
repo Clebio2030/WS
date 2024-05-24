@@ -15,5 +15,8 @@
     "nodemon": "^2.0.22",
     "nunjucks": "^3.2.4",
     "sqlite3": "^5.1.6"
-  }
+  },
+  "engines": {
+    "node" : "18.x"
+}
 }
