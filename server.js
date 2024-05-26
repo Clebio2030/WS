@@ -4,6 +4,8 @@ const server = express()
 
 const db = require("./db")
 
+const port = process.env.PORT || 3001;
+
 // const ideas = [
 //     {
 //         img: "https://cdn-icons-png.flaticon.com/128/3015/3015491.png",
